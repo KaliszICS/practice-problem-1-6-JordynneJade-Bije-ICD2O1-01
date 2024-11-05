@@ -1,6 +1,6 @@
 '''
 	File Name: errors.py
-	Author: Mr. Kalisz
+	Author: Jordynne Jade
 	Date Created: March 29, 2019
 	Date Last Edited: Sept 23, 2024
 '''
@@ -10,7 +10,7 @@ def q1():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
-  Print(num + num2)
+  print(num + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
@@ -30,11 +30,10 @@ def q3():
 
 def q4():
   input("Input a number: ")
-  num2 = input("Input a number: ")
-  
-  print (int(num1 * num2))
+  num2 = input("Input a number: ")	
+  print(int(num1 * num2))
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
